@@ -1,6 +1,6 @@
 > These documents were written by Dr. Michael George.
 >
-> Prof. George’s research interests include quantitative reasoning, and mathematics teaching as a narrative art. He is a deputy chairperson of the Mathematics Department and his responsibilities there include hiring of adjunct faculty.
+> Prof. George’s research interests include quantitative reasoning, and mathematics teaching as a narrative art.
 
 
 # About this Course
